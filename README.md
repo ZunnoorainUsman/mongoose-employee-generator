@@ -35,10 +35,10 @@ employee-data-generator/
 
 ```js
 {
-    name: "Harry",
-    salary: 45000000,
-    language: "Python",
-    city: "New York",
+    name: "Zunnoorain",
+    salary: 450000,
+    language: "JavaScript",
+    city: "Lahore",
     isManager: true
 }
 ```
